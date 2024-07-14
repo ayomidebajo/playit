@@ -7,6 +7,7 @@
 - Single player games
   - Hangman ✅
 - Multiplayer games
+- Smart contract
 
 ### how to run
 
