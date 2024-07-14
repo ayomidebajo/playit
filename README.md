@@ -7,3 +7,7 @@
 - Single player games
   - Hangman ✅
 - Multiplayer games
+
+### how to run
+
+cd into `dapp-template` and then run `yarn install` and the `yarn run`
